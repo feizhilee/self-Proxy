@@ -8,8 +8,9 @@ DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN,media.nijigem.by
 
 # PiliPili
-DOMAIN,emby.pilipiliultra.top
-DOMAIN,emby.pilipiliultra.com
+DOMAIN,pilipili.club
+DOMAIN-SUFFIX,pilipili.club
+DOMAIN-SUFFIX,pilipiliultra.com
 
 # 纸片人
 DOMAIN,embyplus.org
